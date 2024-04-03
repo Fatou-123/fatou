@@ -1,2 +1,2 @@
 # fatou
-i am student of BCA. I 
+i am student of BCA. I am
